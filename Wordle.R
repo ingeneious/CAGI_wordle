@@ -30,9 +30,3 @@ wordcloud(words = abnames, freq = logcits, min.freq = 0, scale=c(2,.0001),
           colors=c(brewer.pal(9, "Reds")[c(3,4, 5, 7, 9)]), fixed.asp=FALSE)
 
 
-
-
-
-
-
-
